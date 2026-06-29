@@ -3,6 +3,9 @@
 A **Streamlit-based KPI Dashboard** that analyzes Excel data and provides interactive visualizations, daily performance metrics, trend analysis, and automatic alerts for significant changes in quantity and revenue.
 
 ---
+<img width="1319" height="584" alt="image" src="https://github.com/user-attachments/assets/56e1b4f1-094e-41d0-8e46-dd0fb08ce258" />
+
+---
 
 ## 🚀 Features
 
