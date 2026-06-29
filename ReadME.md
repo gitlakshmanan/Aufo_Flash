@@ -51,7 +51,7 @@ auto_flash/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/auto_flash.git
+git clone https://github.com/gitlakshmanan/Aufo_Flash.git
 
 cd auto_flash
 ```
@@ -187,9 +187,6 @@ Python Developer | Data Analytics | AI & Machine Learning Enthusiast
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
