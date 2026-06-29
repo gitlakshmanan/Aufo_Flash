@@ -1,0 +1,4 @@
+.vscode
+.streamlit
+.config.toml
+.env
