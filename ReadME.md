@@ -51,7 +51,11 @@ auto_flash/
 Clone the repository:
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/gitlakshmanan/Aufo_Flash.git
+=======
+git clone  https://github.com/gitlakshmanan/Aufo_Flash.git
+>>>>>>> 244deb0b50026a29f7cfd5f2a100f9a20f719413
 
 cd auto_flash
 ```
@@ -85,7 +89,7 @@ The uploaded Excel sheet must contain the following columns:
 | Total | Quantity processed |
 | Amount | Revenue amount |
 
-Example:
+Example: These services are naming of existing industry, it may vary depend upon other industry
 
 | ServiceType | Reportdate | Total | Amount |
 |--------------|------------|------:|-------:|
@@ -166,7 +170,7 @@ scikit-learn
 
 ---
 
-## 📌 Future Improvements
+## 📌 Future Improvements can be done:
 
 - Database integration
 - Automatic Excel refresh
@@ -184,10 +188,13 @@ scikit-learn
 **Lakshmanan Chelliah**
 
 Python Developer | Data Analytics | AI & Machine Learning Enthusiast
+<<<<<<< HEAD
 
 ---
 
 
+=======
+>>>>>>> 244deb0b50026a29f7cfd5f2a100f9a20f719413
 ---
 
 ## ⭐ If you like this project
